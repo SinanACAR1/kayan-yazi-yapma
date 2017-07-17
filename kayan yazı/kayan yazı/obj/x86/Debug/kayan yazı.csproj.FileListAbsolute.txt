@@ -1,0 +1,14 @@
+C:\Users\arcelik\AppData\Local\Temporary Projects\kayan yazı\bin\Debug\kayan yazı.exe
+C:\Users\arcelik\AppData\Local\Temporary Projects\kayan yazı\bin\Debug\kayan yazı.pdb
+C:\Users\arcelik\AppData\Local\Temporary Projects\kayan yazı\obj\x86\Debug\kayan_yazı.Form1.resources
+C:\Users\arcelik\AppData\Local\Temporary Projects\kayan yazı\obj\x86\Debug\kayan_yazı.Properties.Resources.resources
+C:\Users\arcelik\AppData\Local\Temporary Projects\kayan yazı\obj\x86\Debug\kayan yazı.csproj.GenerateResource.Cache
+C:\Users\arcelik\AppData\Local\Temporary Projects\kayan yazı\obj\x86\Debug\kayan yazı.exe
+C:\Users\arcelik\AppData\Local\Temporary Projects\kayan yazı\obj\x86\Debug\kayan yazı.pdb
+C:\Users\arcelik\documents\visual studio 2010\Projects\kayan yazı\kayan yazı\obj\x86\Debug\kayan yazı.exe
+C:\Users\arcelik\documents\visual studio 2010\Projects\kayan yazı\kayan yazı\obj\x86\Debug\kayan yazı.pdb
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\kayan yazı\kayan yazı\bin\Debug\kayan yazı.exe
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\kayan yazı\kayan yazı\bin\Debug\kayan yazı.pdb
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\kayan yazı\kayan yazı\obj\x86\Debug\kayan_yazı.Form1.resources
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\kayan yazı\kayan yazı\obj\x86\Debug\kayan_yazı.Properties.Resources.resources
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\kayan yazı\kayan yazı\obj\x86\Debug\kayan yazı.csproj.GenerateResource.Cache
